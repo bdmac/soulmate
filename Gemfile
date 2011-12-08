@@ -16,4 +16,4 @@ gem 'redis',        "~> 2.2.2"
 gem 'multi_json',   "~> 1.0.3"
 gem 'rack-contrib'
 gem 'vegas',        "~> 0.1.8"
-gem 'sinatra',      "~> 1.2.3"
+gem 'sinatra',      "~> 1.3.1"
